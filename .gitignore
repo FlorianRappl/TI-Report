@@ -1,0 +1,10 @@
+# LaTeX temporary output
+report.abstract
+report.aux
+report.bbl
+report.blg
+report.out
+report.auxlock
+
+# Produced Report
+report.pdf
